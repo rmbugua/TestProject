@@ -6,3 +6,9 @@ body {
 .main {
   background: red;
 }
+
+.header{
+  margin:20px;
+  padding:30px;
+  border:red;
+}
